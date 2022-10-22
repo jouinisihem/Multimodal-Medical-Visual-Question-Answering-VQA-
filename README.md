@@ -1,9 +1,6 @@
 # Multimodal-Medical-Visual-Question-Answering-VQA
-Avec l'intérêt croissant de l'intelligence artificielle (IA) pour soutenir la prise de décision médical, la confiance des médecins dans l'interprétation d'images médicales complexes (Radiographie, IRM, Angiographie, Échographie, radiologie diagnostique) peut être considérablement renforcée par une « deuxième opinion » fournie par un système automatisé. 
-De plus, les patients peuvent être intéressés par la morphologie/physiologie et l'état pathologique des structures anatomiques autour d'une lésion qui a été bien caractérisée par leurs prestataires de soins de santé. Bien que les patients se tournent souvent vers les moteurs de recherche pour lever l'ambiguïté de termes complexes ou obtenir des réponses à des aspects relatifs à une image médicale, les résultats des moteurs de recherche peuvent être non spécifiques et erronés . En revanche, une VQA médicale peut être intégrée dans un système de consultation en ligne afin de fournir des réponses fiables à tout moment.
+With the increased interest in artificial intelligence (AI) to support medical decision making, physicians' confidence in the interpretation of complex medical images (X-ray, MRI, Angiography, Ultrasound, Diagnostic Radiology) can be greatly enhanced by a "second opinion" provided by an automated system. In addition, patients may be interested in the morphology/physiology and pathological status of anatomical structures around a lesion that has been well characterized by their healthcare providers. Although patients often turn to search engines to resolve the ambiguity of complex terms or obtain answers to aspects related to a medical image, search engine results can be non-specific and erroneous . In contrast, a medical VQA can be integrated into an online consultation system to provide reliable answers at any time.
 
-Dataset : 
+Dataset:
 
-VQA-Med-2019 : un ensemble de training de 3 200 images médicales avec 12 792 paires de questions-réponses (AQ), un ensemble de validation de 500 images médicales avec 2 000 paires d'AQ et un ensemble de test de 500 images médicales avec 500 questions. 
-Lien: https://github.com/abachaa/VQA-Med-2019
-
+VQA-Med-2019: a training set of 3,200 medical images with 12,792 question-answer (QA) pairs, a validation set of 500 medical images with 2,000 QA pairs, and a test set of 500 medical images with 500 questions. Link: https://github.com/abachaa/VQA-Med-2019
